@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**deepakshrma/deepakshrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Deepak Vishwakarma
 
-Here are some ideas to get you started:
+**Programmer, Author, Poet and Enthusiastic Tech lover**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Polyglot Programmer, Efficiently can work on UI/UX(Frontend), Backend and Mobile apps
+- Proficient in developing Web and Mobile Apps
+
+![bats icon](assets/icon_bat.svg)
+
+> It's not who I am underneath, but what I do that defines me.
+
+- 🔭 I’m currently working on: A lot of things
+- 🌱 I’m currently learning: Blockchain, Flutter
+- 👯 I’m looking to collaborate on: Mobile App Ideas
+- 🤔 I’m looking for help with: Not Known
+- 💬 Ask me about: Not Known
+- 📫 How to reach me: deepak.m.shrma@gmail.com
+- 😄 Pronouns: DeBug
+- ⚡ Fun fact: I write poems

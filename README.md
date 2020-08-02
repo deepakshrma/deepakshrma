@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![Deepak Vishwakarma GitHub](https://github-readme-stats.vercel.app/api?username=deepakshrma&show_icons=true&theme=tokyonight)
+
 > Deepak Vishwakarma: **Programmer, Author, Poet and Enthusiastic Tech lover**
 
 - Polyglot Programmer, Efficiently can work on UI/UX(Frontend), Backend and Mobile apps
@@ -17,3 +19,4 @@
 - 📫 How to reach me: **deepak.m.shrma@gmail.com**
 - 😄 Pronouns: **DeBug**
 - ⚡ Fun fact: **I write poems**
+
